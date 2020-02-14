@@ -1,6 +1,6 @@
 # Godot Jigglebones
 
-This is an addon that adds jigglebones to Godot 3.0. If you don't know what that is: jigglebones are bones that jiggle when the skeleton moves. They are used for procedural animation, so you can move only the important parts of the skeleton and the little bits will automatically jiggle with it.
+This is an addon that adds jigglebones to Godot 3.2. If you don't know what that is: jigglebones are bones that jiggle when the skeleton moves. They are used for procedural animation, so you can move only the important parts of the skeleton and the little bits will automatically jiggle with it.
 
 ![Jiggle](images/jiggle.gif)
 
